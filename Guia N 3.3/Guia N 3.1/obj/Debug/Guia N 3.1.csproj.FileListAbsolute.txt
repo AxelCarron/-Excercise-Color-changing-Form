@@ -1,0 +1,8 @@
+C:\Programacion\SEMI\Guia N 3.1\Guia N 3.1\bin\Debug\Guia N 3.1.exe.config
+C:\Programacion\SEMI\Guia N 3.1\Guia N 3.1\bin\Debug\Guia N 3.1.exe
+C:\Programacion\SEMI\Guia N 3.1\Guia N 3.1\bin\Debug\Guia N 3.1.pdb
+C:\Programacion\SEMI\Guia N 3.1\Guia N 3.1\obj\Debug\Guia_N_3._1.frmInicio.resources
+C:\Programacion\SEMI\Guia N 3.1\Guia N 3.1\obj\Debug\Guia_N_3._1.Properties.Resources.resources
+C:\Programacion\SEMI\Guia N 3.1\Guia N 3.1\obj\Debug\Guia N 3.1.csproj.GenerateResource.Cache
+C:\Programacion\SEMI\Guia N 3.1\Guia N 3.1\obj\Debug\Guia N 3.1.exe
+C:\Programacion\SEMI\Guia N 3.1\Guia N 3.1\obj\Debug\Guia N 3.1.pdb
